@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<head>
+<meta charset = "Utf-8">
+<title> Elden Ring </title>
+<style>
+body{
+margin: 0px;
+padding: 0px;
+background-color:black;
+}
+
+a{
+color: #ffff00;
+text-decoration:none;
+}
+
+
+h4,h3, h2, h1{
+text-align:center;
+color: #AB966F;
+}
+
+table{
+text-align: center;
+}
+</style>
+
+</head>
+
+<body>
+<table border=1 cellspacing=0>
+
+<tr>
+	<td colspan=6 ><img src="01.jpg" width="100%" ></td>
+</tr>
+
+<tr>
+	<td colspan=6 > <h1> LANDS BETWEEN DEMIGODS  </h1></td>
+</tr>
+
+
+
+<tr>
+	<td colspan=2 rowspan=2> <h3> Queen Marika the Eternal </h3> <img src="Marika.png"></td></td>
+	
+	<td> <h3><a href="https://www.youtube.com/watch?v=hwIlTyTVBP0" target="_blank">Mohg, Lord of Blood</a></h3> <img src="mohg.png" alt="Mohg, Lord of Blood is found at the end of Blood Palace dungeon."></td>
+	<td> <h3>Hoarah Loux, The Warrior</h3> <img src="hoarah.png"></td>
+	<td> <h3>Maliketh, The Black Blade</h3> <img src="maliketh.png"></td>
+	<td> <h3>Lichdragon Fortissax</h3><img src="fortissax.png"></td>
+</tr>
+
+<tr>
+	<td> <h3>Lunar Princess Ranni</h3> <img src="Ranni.png"></td>
+	<td> <h3>Gereneral Radahn</h3><img src="radahn.png"></td>
+	<td> <h3>Morgott, the Omen King</h3><img src="morgott.png"></td>
+	<td> <h3>Malenia, Blade of Miquella</h3><img src="malenia.png"></td>
+	
+	
+</tr>
+
+<tr>
+	<td> <h3>Godskin Duo</h3><img src="godskin.png"></td></td>
+	<td> <h3>Fire Giant</h3><img src="firegiant.png"></td></td>
+	<td> <h3>Rykard, Lord of Blasphemy</h3><img src="serpentking.png"></td></td>
+	<td> <h3>Dragonlord Placidusax</h3><img src="placidusax.png"></td></td>
+	<td> <h3>Godrick the Grafted</h3><img src="godrick.png"></td></td>
+	<td> <h3>Ancestor Spirit</h3><img src="spirit.png"></td></td>
+</tr>
+
+<tr>
+	<td colspan=6 rowspan=2> <h2> "Join the serpent king as family. Together we'll devour the very gods!" </h2> <img src="blasphemy.png "width="100%"></td>
+	
+</tr>
+ 
+</table>
+
+<br>
+<h4> Criado por Charles Ventura Silva </h4>
+</body>
+
+</html>
