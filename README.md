@@ -1,3 +1,3 @@
 # Album
- Site de figuras
-Charles Ventura Silva
+Site de figuras
+By: Charles Ventura Silva
